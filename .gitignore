@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Variáveis de ambiente / segredos
+.env
+.env.*
+
+# Arquivos temporários
+*.log
